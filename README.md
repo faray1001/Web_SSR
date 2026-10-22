@@ -1,4 +1,4 @@
-# Proyek Praktik SSR Next.js | Kelompok 2
+# Aku Sayang kamu faray
 
 - `ssr-demo-final/`  : demo lengkap untuk Demo Leader (presentasi dan demo)
 - `ssr-starter/`     : project awal untuk peserta (berisi TODO sesuai Jobsheet)
